@@ -21,11 +21,11 @@ If you haven't already, clone the course materials repo at https://github.com/UC
 
 Using only vanilla HTML markup, update your yourname.html file to include:
 
-Your name in the title bar
-an ordered list of your favorite foods
-an unordered list of your favorite movies or TV shows
-an 8x8 table of multiplication facts 1-8
-a link to a wikipedia article about a cute animal
+6. Your name in the title bar
+7. an ordered list of your favorite foods
+8. an unordered list of your favorite movies or TV shows
+9. an 8x8 table of multiplication facts 1-8
+10. a link to a wikipedia article about a cute animal
 
 ### Rubric
 
